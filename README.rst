@@ -19,7 +19,7 @@ rhf
 Python implementation of Random Histogram Forest (RHF)
 
 Installation and Usage
-=======
+======================
 To install rhf ::
 
     pip install rhf
